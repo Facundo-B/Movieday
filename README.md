@@ -4,7 +4,7 @@ Movie searching website using [OMDBapi](https://www.omdbapi.com)
 
 ---
 
-## :gear: Languages/Frameworks/Libraries
+## :gear: Technologies
 
 - NodeJS
 - React
